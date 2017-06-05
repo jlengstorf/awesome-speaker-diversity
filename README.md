@@ -1,4 +1,4 @@
-# Welcoming Diversity in Tech Means Reaching
+# Welcoming Diversity in Tech Means Reaching Out
 
 Recently, I got into [a debate about diversity](https://www.reddit.com/r/javascript/comments/6f8u2s/githubs_electronconf_postponed_because_all_the/digz7hb/) on Reddit, and it bummed me out.
 
