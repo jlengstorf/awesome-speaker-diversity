@@ -32,4 +32,4 @@ Groups are in alphabetical order.
 - Black Girls Code ([site](http://www.blackgirlscode.com/)) ([contact](http://www.blackgirlscode.com/contact-us.html))
 - ChickTech ([site](https://chicktech.org/)) ([email](mailto:info@chicktech.org))
 - Girl Develop It ([site](https://www.girldevelopit.com)) ([email](mailto:partnerships@girldevelopit.com))
-- Techqueria ([site](https://techqueria.org/)) ([email](mailto:david@techqueria.org))
+- Techqueria ([site](https://techqueria.org/)) ([email](mailto:organizers@techqueria.org))
