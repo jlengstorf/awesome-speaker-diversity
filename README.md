@@ -20,7 +20,7 @@ If you're planning an event, put together a simple email that says something lik
 >
 > If you're comfortable with it, we'd really appreciate it if you'd share the CFP with your community.
 >
-> Thanks!
+> Thanks!  
 > {{YOUR_NAME}}
 
 You can send this email to every group at once, if you'd like — though it'd probably pay dividends to personalize it a bit — and this ensures that your CFP is seen in as many communities as possible, encouraging submissions from a diverse group of developers and driving up the quality of the talks at your event.
