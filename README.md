@@ -32,4 +32,6 @@ Groups are in alphabetical order.
 - Black Girls Code ([site](http://www.blackgirlscode.com/)) ([contact](http://www.blackgirlscode.com/contact-us.html))
 - ChickTech ([site](https://chicktech.org/)) ([email](mailto:info@chicktech.org))
 - Girl Develop It ([site](https://www.girldevelopit.com)) ([email](mailto:partnerships@girldevelopit.com))
+- Lesbians Who Tech  ([site](https://lesbianswhotech.org/about)) ([email](mailto:patty@lesbianswhotech.org))
+- Women Who Code ([site](https://www.womenwhocode.com/about)) ([contact](https://www.womenwhocode.com/networks))
 - Techqueria ([site](https://techqueria.org/)) ([email](mailto:organizers@techqueria.org))
