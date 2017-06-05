@@ -29,10 +29,10 @@ You can send this email to every group at once, if you'd like — though it'd pr
 
 Groups are in alphabetical order. Want to add your group? [Here's how!](#please-add-your-group)
 
-- Black Girls Code ([site](http://www.blackgirlscode.com/)) ([contact](http://www.blackgirlscode.com/contact-us.html))
-- ChickTech ([site](https://chicktech.org/)) ([email](mailto:info@chicktech.org))
-- Girl Develop It ([site](https://www.girldevelopit.com)) ([email](mailto:partnerships@girldevelopit.com))
-- Techqueria ([site](https://techqueria.org/)) ([email](mailto:organizers@techqueria.org))
+- Black Girls Code: [site](http://www.blackgirlscode.com/) · [contact](http://www.blackgirlscode.com/contact-us.html)
+- ChickTech: [site](https://chicktech.org/) · [email](mailto:info@chicktech.org)
+- Girl Develop It: [site](https://www.girldevelopit.com) · [email](mailto:partnerships@girldevelopit.com)
+- Techqueria: [site](https://techqueria.org/) · [email](mailto:organizers@techqueria.org)
 
 ## Please add your group!
 
@@ -41,5 +41,5 @@ Groups are in alphabetical order. Want to add your group? [Here's how!](#please-
 Please [edit this file](https://github.com/jlengstorf/awesome-speaker-diversity/edit/master/README.md) to add your group with the following format:
 
 ```
-- Group Name ([site](http://example.com)) ([email](mailto:contact@example.com))
+- Group Name: [site](http://example.com) · [email](mailto:contact@example.com)
 ```
