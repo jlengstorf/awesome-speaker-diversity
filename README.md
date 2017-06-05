@@ -1,4 +1,4 @@
-# Welcoming Diversity in Tech Means Reaching Out
+# Everyone is welcome in tech. We should try to make them feel that way. ❤️ ✊
 
 - [How This List Works](#how-this-list-works)
 - [Developer Groups](#developer-groups)
@@ -51,4 +51,4 @@ The [ElectronConf](http://electronconf.com/) roster was 100% men, despite a blin
 
 We can make this easier for conferences everywhere: this is a (far from exhaustive) list of developer groups we can reach out to during calls for proposals to make sure we're welcoming everyone in tech at our conferences.
 
-Everyone is welcome in tech. We should try to make them feel that way. ❤️ ✊
+Inviting a broader group of developers to submit proposals means more proposals, better conferences, more value for attendees, and a strong message to the tech community: **you are welcome here.**
