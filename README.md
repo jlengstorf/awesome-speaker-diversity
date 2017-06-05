@@ -1,12 +1,9 @@
 # Welcoming Diversity in Tech Means Reaching Out
 
-Recently, I got into [a debate about diversity](https://www.reddit.com/r/javascript/comments/6f8u2s/githubs_electronconf_postponed_because_all_the/digz7hb/) on Reddit, and it bummed me out.
-
-The [ElectronConf](http://electronconf.com/) roster was 100% men, despite a blind review process. This points to a big issue: **there wasn't any diversity in the proposals to begin with, so the roster was doomed to be skewed.** Personally, I don't believe any of this was due to malice or ill intent, but an oversight on the part of the conference organizers to welcome proposals from a more diverse group of developers.
-
-We can make this easier for conferences everywhere: this is a (far from exhaustive) list of developer groups we can reach out to during calls for proposals to make sure we're welcoming everyone in tech at our conferences.
-
-Everyone is welcome in tech. Let's make an effort to extend that welcome.
+- [How This List Works](#how-this-list-works)
+- [Developer Groups](#developer-groups)
+- [How to Add a Group](#please-add-your-group)
+- [Why Make This List?](#why)
 
 ## How this list works.
 
@@ -45,3 +42,13 @@ Please [edit this file](https://github.com/jlengstorf/awesome-speaker-diversity/
 ```
 - Group Name: [site](http://example.com) · [email](mailto:contact@example.com)
 ```
+
+## Why?
+
+Recently, I got into [a debate about diversity](https://www.reddit.com/r/javascript/comments/6f8u2s/githubs_electronconf_postponed_because_all_the/digz7hb/) on Reddit, and it bummed me out.
+
+The [ElectronConf](http://electronconf.com/) roster was 100% men, despite a blind review process. This points to a big issue: **there wasn't any diversity in the proposals to begin with, so the roster was doomed to be skewed.** Personally, I don't believe any of this was due to malice or ill intent, but an oversight on the part of the conference organizers to welcome proposals from a more diverse group of developers.
+
+We can make this easier for conferences everywhere: this is a (far from exhaustive) list of developer groups we can reach out to during calls for proposals to make sure we're welcoming everyone in tech at our conferences.
+
+Everyone is welcome in tech. We should try to make them feel that way. ❤️ ✊
