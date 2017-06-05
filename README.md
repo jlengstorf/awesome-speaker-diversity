@@ -20,18 +20,28 @@ If you're planning an event, put together a simple email that says something lik
 >
 > If you're comfortable with it, we'd really appreciate it if you'd share the CFP with your community.
 >
-> Thanks!
+> Thanks!  
 > {{YOUR_NAME}}
 
 You can send this email to every group at once, if you'd like — though it'd probably pay dividends to personalize it a bit — and this ensures that your CFP is seen in as many communities as possible, encouraging submissions from a diverse group of developers and driving up the quality of the talks at your event.
 
 ## Developer Groups
 
-Groups are in alphabetical order.
+Groups are in alphabetical order. Want to add your group? [Here's how!](#please-add-your-group)
 
-- Black Girls Code ([site](http://www.blackgirlscode.com/)) ([contact](http://www.blackgirlscode.com/contact-us.html))
-- ChickTech ([site](https://chicktech.org/)) ([email](mailto:info@chicktech.org))
-- Girl Develop It ([site](https://www.girldevelopit.com)) ([email](mailto:partnerships@girldevelopit.com))
-- Lesbians Who Tech  ([site](https://lesbianswhotech.org/about)) ([email](mailto:patty@lesbianswhotech.org))
-- Women Who Code ([site](https://www.womenwhocode.com/about)) ([contact](https://www.womenwhocode.com/networks))
-- Techqueria ([site](https://techqueria.org/)) ([email](mailto:organizers@techqueria.org))
+- Black Girls Code: [site](http://www.blackgirlscode.com/) · [contact](http://www.blackgirlscode.com/contact-us.html)
+- ChickTech: [site](https://chicktech.org/) · [email](mailto:info@chicktech.org)
+- Girl Develop It: [site](https://www.girldevelopit.com) · [email](mailto:partnerships@girldevelopit.com)
+- Lesbians Who Tech: [site](https://lesbianswhotech.org/about) · [email](mailto:patty@lesbianswhotech.org)
+- Techqueria: [site](https://techqueria.org/) · [email](mailto:organizers@techqueria.org)
+- Women Who Code: [site](https://www.womenwhocode.com/about) · [contact](https://www.womenwhocode.com/networks)
+
+## Please add your group!
+
+**The only criteria for adding your group to this list is that your group consists of people in the development/tech/web space.**
+
+Please [edit this file](https://github.com/jlengstorf/awesome-speaker-diversity/edit/master/README.md) to add your group with the following format:
+
+```
+- Group Name: [site](http://example.com) · [email](mailto:contact@example.com)
+```
