@@ -31,6 +31,7 @@ Groups are in alphabetical order. Want to add your group? [Here's how!](#please-
 - Girl Develop It: [site](https://www.girldevelopit.com) · [email](mailto:partnerships@girldevelopit.com)
 - Lesbians Who Tech: [site](https://lesbianswhotech.org/about) · [email](mailto:patty@lesbianswhotech.org)
 - Techqueria: [site](https://techqueria.org/) · [email](mailto:organizers@techqueria.org)
+- Trans\*H4CK: [site](http://transhack.org) · [email](mailto:hello@transhack.org)
 - Women Who Code: [site](https://www.womenwhocode.com/about) · [contact](https://www.womenwhocode.com/networks)
 
 ## Please add your group!
