@@ -13,7 +13,7 @@ If you're planning an event, put together a simple email that says something lik
 > 
 > I'm one of the organizers of {{CONF_NAME}}, and we're looking for speakers. We wanted to reach out to your community directly to let you know the call for proposals is open at {{CFP_LINK}}. We think the members of your group could offer a lot to our attendees, and we'd like to invite them all to submit ideas.
 > 
-> You can find out more about the conference at {{CONF_LINK}}, or reach out to me directly with any questsions.
+> You can find out more about the conference at {{CONF_LINK}}, or reach out to me directly with any questions.
 >
 > If you're comfortable with it, we'd really appreciate it if you'd share the CFP with your community.
 >
@@ -28,6 +28,7 @@ Groups are in alphabetical order. Want to add your group? [Here's how!](#please-
 
 - Black Girls Code: [site](http://www.blackgirlscode.com/) · [contact](http://www.blackgirlscode.com/contact-us.html)
 - ChickTech: [site](https://chicktech.org/) · [email](mailto:info@chicktech.org)
+- Code2040: [site](http://www.code2040.org/mission/) · [email](mailto:info@code2040.org)
 - Girl Develop It: [site](https://www.girldevelopit.com) · [email](mailto:partnerships@girldevelopit.com)
 - Lesbians Who Tech: [site](https://lesbianswhotech.org/about) · [email](mailto:patty@lesbianswhotech.org)
 - Techqueria: [site](https://techqueria.org/) · [email](mailto:organizers@techqueria.org)
@@ -53,3 +54,4 @@ The [ElectronConf](http://electronconf.com/) roster was 100% men, despite a blin
 We can make this easier for conferences everywhere: this is a (far from exhaustive) list of developer groups we can reach out to during calls for proposals to make sure we're welcoming everyone in tech at our conferences.
 
 Inviting a broader group of developers to submit proposals means more proposals, better conferences, more value for attendees, and a strong message to the tech community: **you are welcome here.**
+
