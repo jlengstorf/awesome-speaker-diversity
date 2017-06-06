@@ -16,7 +16,7 @@ If you're planning an event, put together a simple email that says something lik
 > 
 > I'm one of the organizers of {{CONF_NAME}}, and we're looking for speakers. We wanted to reach out to your community directly to let you know the call for proposals is open at {{CFP_LINK}}. We think the members of your group could offer a lot to our attendees, and we'd like to invite them all to submit ideas.
 > 
-> You can find out more about the conference at {{CONF_LINK}}, or reach out to me directly with any questsions.
+> You can find out more about the conference at {{CONF_LINK}}, or reach out to me directly with any questions.
 >
 > If you're comfortable with it, we'd really appreciate it if you'd share the CFP with your community.
 >
@@ -34,4 +34,5 @@ Groups are in alphabetical order.
 - Girl Develop It ([site](https://www.girldevelopit.com)) ([email](mailto:partnerships@girldevelopit.com))
 - Lesbians Who Tech  ([site](https://lesbianswhotech.org/about)) ([email](mailto:patty@lesbianswhotech.org))
 - Women Who Code ([site](https://www.womenwhocode.com/about)) ([contact](https://www.womenwhocode.com/networks))
+- Code2040 ([site](http://www.code2040.org/mission/)) ([email](mailto:info@code2040.org))
 - Techqueria ([site](https://techqueria.org/)) ([email](mailto:organizers@techqueria.org))
