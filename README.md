@@ -27,13 +27,16 @@ You can send this email to every group at once, if you'd like — though it'd pr
 Groups are in alphabetical order. Want to add your group? [Here's how!](#please-add-your-group)
 
 - Black Girls Code: [site](http://www.blackgirlscode.com/) · [contact](http://www.blackgirlscode.com/contact-us.html)
+- BeVisible: [site](http://bevisible.soy/) · [email](mailto:contact@bevisible.soy)
 - ChickTech: [site](https://chicktech.org/) · [email](mailto:info@chicktech.org)
 - Code2040: [site](http://www.code2040.org/mission/) · [email](mailto:info@code2040.org)
 - Girl Develop It: [site](https://www.girldevelopit.com) · [email](mailto:partnerships@girldevelopit.com)
 - Lesbians Who Tech: [site](https://lesbianswhotech.org/about) · [email](mailto:patty@lesbianswhotech.org)
+- Technolochicas: [site](http://technolochicas.org/) · [email](mailto:technolochicas@ncwit.org)
 - Techqueria: [site](https://techqueria.org/) · [email](mailto:organizers@techqueria.org)
 - Trans\*H4CK: [site](http://transhack.org) · [email](mailto:hello@transhack.org)
 - Women Who Code: [site](https://www.womenwhocode.com/about) · [contact](https://www.womenwhocode.com/networks)
+- YesWeCode: [site](https://www.yeswecode.org/) · [email](mailto:info@yeswecode.org)
 
 ## Please add your group!
 
