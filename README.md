@@ -32,6 +32,8 @@ Groups are in alphabetical order. Want to add your group? [Here's how!](#please-
 - Code2040: [site](http://www.code2040.org/mission/) · [email](mailto:info@code2040.org)
 - Girl Develop It: [site](https://www.girldevelopit.com) · [email](mailto:partnerships@girldevelopit.com)
 - Lesbians Who Tech: [site](https://lesbianswhotech.org/about) · [email](mailto:patty@lesbianswhotech.org)
+- ShePlusPlus: [site](http://sheplusplus.org) · [email](mailto:sheplusplus.ambassadors@gmail.com)
+- Spectra: [site](https://sospectra.com) · [email](mailto:hello@sospectra.com)
 - Technolochicas: [site](http://technolochicas.org/) · [email](mailto:technolochicas@ncwit.org)
 - Techqueria: [site](https://techqueria.org/) · [email](mailto:organizers@techqueria.org)
 - Trans\*H4CK: [site](http://transhack.org) · [email](mailto:hello@transhack.org)
