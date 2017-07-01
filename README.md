@@ -32,6 +32,7 @@ Groups are in alphabetical order. Want to add your group? [Here's how!](#please-
 - ChickTech: [site](https://chicktech.org/) · [email](mailto:info@chicktech.org)
 - Code2040: [site](http://www.code2040.org/mission/) · [email](mailto:info@code2040.org)
 - Girl Develop It: [site](https://www.girldevelopit.com) · [email](mailto:partnerships@girldevelopit.com)
+- Heterosexual White Males Who Code: [site](https://github.com/heterosexual-white-males-who-code/HWMWC)
 - Lesbians Who Tech: [site](https://lesbianswhotech.org/about) · [email](mailto:patty@lesbianswhotech.org)
 - MotherCoders: [site](http://www.mothercoders.org/) · [email](info@mothercoders.org)
 - ShePlusPlus: [site](http://sheplusplus.org) · [email](mailto:sheplusplus.ambassadors@gmail.com)
