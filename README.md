@@ -34,6 +34,7 @@ Groups are in alphabetical order. Want to add your group? [Here's how!](#please-
 - Girl Develop It: [site](https://www.girldevelopit.com) · [email](mailto:partnerships@girldevelopit.com)
 - Lesbians Who Tech: [site](https://lesbianswhotech.org/about) · [email](mailto:patty@lesbianswhotech.org)
 - MotherCoders: [site](http://www.mothercoders.org/) · [email](info@mothercoders.org)
+- ResilientCoders: [site](http://www.resilientcoders.org/) · [email](mailto:david@resilientcoders.org)
 - ShePlusPlus: [site](http://sheplusplus.org) · [email](mailto:sheplusplus.ambassadors@gmail.com)
 - Spectra: [site](https://sospectra.com) · [email](mailto:hello@sospectra.com)
 - Technolochicas: [site](http://technolochicas.org/) · [email](mailto:technolochicas@ncwit.org)
