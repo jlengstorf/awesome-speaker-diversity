@@ -28,7 +28,7 @@ Groups are in alphabetical order. Want to add your group? [Here's how!](#please-
 
 - BeVisible: [site](http://bevisible.soy/) · [email](mailto:contact@bevisible.soy)
 - Black Girls Code: [site](http://www.blackgirlscode.com/) · [contact](http://www.blackgirlscode.com/contact-us.html)
-- Blacks in Technology (BIT): [site](https://www.blacksintechnology.net) · [email](contactus@blacksintechnology.net)
+- Blacks in Technology (BIT): [site](https://www.blacksintechnology.net) · [email](mailto:contactus@blacksintechnology.net)
 - ChickTech: [site](https://chicktech.org/) · [email](mailto:info@chicktech.org)
 - Code2040: [site](http://www.code2040.org/mission/) · [email](mailto:info@code2040.org)
 - Enby Tech Speakers List: [site](https://enbytech.github.io/) 
@@ -36,7 +36,7 @@ Groups are in alphabetical order. Want to add your group? [Here's how!](#please-
 - Girls Who Code: [site](https://girlswhocode.com) · [contact](https://girlswhocode.com/contact-us/)
 - Kansas City Women in Technology: [site](http://www.kcwomenintech.org) · [email](mailto:info@kcwomenintech.org)
 - Lesbians Who Tech: [site](https://lesbianswhotech.org/about) · [email](mailto:patty@lesbianswhotech.org)
-- MotherCoders: [site](http://www.mothercoders.org/) · [email](info@mothercoders.org)
+- MotherCoders: [site](http://www.mothercoders.org/) · [email](mailto:info@mothercoders.org)
 - ResilientCoders: [site](http://www.resilientcoders.org/) · [email](mailto:david@resilientcoders.org)
 - ShePlusPlus: [site](http://sheplusplus.org) · [email](mailto:sheplusplus.ambassadors@gmail.com)
 - Spectra: [site](https://sospectra.com) · [email](mailto:hello@sospectra.com)
