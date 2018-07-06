@@ -48,6 +48,7 @@ Groups are in alphabetical order. Want to add your group? [Here's how!](#please-
 - Trans\*H4CK: [site](http://transhack.org) · [email](mailto:hello@transhack.org)
 - Women Who Code: [site](https://www.womenwhocode.com/about) · [contact](https://www.womenwhocode.com/networks)
 - YesWeCode: [site](https://www.yeswecode.org/) · [email](mailto:info@yeswecode.org)
+- Techy Girls Foundtion: [site](http://techygirls.org) · [email](mailto:geek@techygirls.org)
 
 ## Please add your group!
 
